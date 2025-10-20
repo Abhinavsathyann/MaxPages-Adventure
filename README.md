@@ -31,4 +31,24 @@ You explore mysterious “pages,” fight enemies, find treasures, and level up 
 ---
 
 ## 🧩 Folder Structure
+advanced_maxpages_modular/
 
+│
+
+├── main.py # Entry point
+
+├── game_engine.py # Core gameplay loop + save/load + UI
+
+├── page.py # Page generation and types
+
+├── events.py # Random events and enemy creation
+
+├── combat.py # Turn-based battle system
+
+├── player.py # Player stats and leveling logic
+
+├── items.py # Item definitions and item effects
+
+├── config.py # Constants and global settings
+
+└── README.md # This file
