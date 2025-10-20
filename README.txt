@@ -1,4 +1,4 @@
-# 🧭 Advanced MaxPages Adventure
+## 🧭 Advanced MaxPages Adventure
 
 Welcome to **Advanced MaxPages Adventure** — a modular, text-based exploration and combat game written in Python.  
 You explore mysterious “pages,” fight enemies, find treasures, and level up to reach the final page.
