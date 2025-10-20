@@ -94,6 +94,9 @@ Save frequently to protect progress.
 
 ---
 
+## 🧰 License
+
+This project is free to use and modify for learning or personal projects.
 
 ---
 
