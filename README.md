@@ -53,6 +53,17 @@ advanced_maxpages_modular/
 
 └── README.md # This file
 
+---
+
+## 🧠 Tips
+
+Use healing items wisely — HP doesn’t regenerate automatically.
+
+Leveling up fully restores your HP.
+
+Merchant pages sometimes give free items.
+
+Save frequently to protect progress.
 
 ---
 
