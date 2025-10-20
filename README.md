@@ -55,18 +55,6 @@ advanced_maxpages_modular/
 
 ---
 
-## 🧠 Tips
-
-Use healing items wisely — HP doesn’t regenerate automatically.
-
-Leveling up fully restores your HP.
-
-Merchant pages sometimes give free items.
-
-Save frequently to protect progress.
-
----
-
 ## 🎮 How to Play
 
 1. Run the game
@@ -91,6 +79,21 @@ python3 main.py --pages 40
 3. Goal
 
 Survive traps, defeat enemies, and reach the final page!
+
+---
+
+## 🧠 Tips
+
+Use healing items wisely — HP doesn’t regenerate automatically.
+
+Leveling up fully restores your HP.
+
+Merchant pages sometimes give free items.
+
+Save frequently to protect progress.
+
+---
+
 
 ---
 
