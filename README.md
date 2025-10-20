@@ -52,3 +52,13 @@ advanced_maxpages_modular/
 ├── config.py # Constants and global settings
 
 └── README.md # This file
+
+
+---
+
+## ⚙️ Requirements
+
+- **Python 3.8+**
+- Optional:
+  ```bash
+  pip install colorama
