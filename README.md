@@ -56,6 +56,33 @@ advanced_maxpages_modular/
 
 ---
 
+## 🎮 How to Play
+
+1. Run the game
+
+python3 main.py --pages 40
+
+
+2. Game Commands
+
+-Type numbers (1, 2, 3…) to choose paths.
+
+- I → Open inventory
+
+- S → Save game
+
+- L → Load saved game
+
+- M → View visited pages
+
+- Q → Quit game
+
+3. Goal
+
+Survive traps, defeat enemies, and reach the final page!
+
+---
+
 ## ⚙️ Requirements
 
 - **Python 3.8+**
