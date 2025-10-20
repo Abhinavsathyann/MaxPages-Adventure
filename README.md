@@ -65,7 +65,7 @@ python3 main.py --pages 40
 
 2. Game Commands
 
--Type numbers (1, 2, 3…) to choose paths.
+- Type numbers (1, 2, 3…) to choose paths.
 
 - I → Open inventory
 
